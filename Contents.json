@@ -1,0 +1,254 @@
+{
+	"BundleName": null,
+	"Hats": [
+		{
+			"Main": {
+				"Hash": "b46ca67284b497b3695a287d92069e95",
+				"Address": "yryoran_Main.png",
+				"ExIsFront": False
+			},
+			"Climb": {
+				"Hash": "2edbf62b7964615b2fe2a32884fbdc1b",
+				"Address": "yryoran_Climb.png",
+				"ExIsFront": False
+			},
+			"Bounce": False,
+			"Adaptive": False,
+			"HideHands": False,
+			"IsSkinny": False,
+			"SeekerCostume": True,
+			"FPS": 1,
+			"Name": "寒がりさん",
+			"Author": "夜藍",
+			"Package": "4"
+		},
+		{
+			"Main": {
+				"Hash": "b40d232b7a98a0596338cc04498e2bd3",
+				"Address": "yrPanda.png",
+				"ExIsFront": False
+			},
+			"Climb": {
+				"Hash": "b06698c8e7bfda2387940b8554e2e44b",
+				"Address": "yrPanda_Climb.png",
+				"ExIsFront": False
+			},
+			"Bounce": False,
+			"Adaptive": True,
+			"HideHands": False,
+			"IsSkinny": False,
+			"SeekerCostume": True,
+			"FPS": 1,
+			"Name": "笹が足りない",
+			"Author": "夜藍",
+			"Package": "4"
+		},
+		{
+			"Main": {
+				"Hash": "e3817b934a85772fdae50874b7a0a19c",
+				"Address": "yrSango.png",
+				"ExIsFront": False
+			},
+			"Climb": {
+				"Hash": "3ecb49c890277cbb46a2fdecbc88e0b4",
+				"Address": "yrSango_Climb.png",
+				"ExIsFront": False
+			},
+			"Bounce": False,
+			"Adaptive": True,
+			"HideHands": False,
+			"IsSkinny": False,
+			"SeekerCostume": True,
+			"FPS": 1,
+			"Name": "僕は珊瑚",
+			"Author": "夜藍",
+			"Package": "4"
+		},
+		{
+			"Main": {
+				"Hash": "77b98f20c4e9f50246c40da153aae8e0",
+				"Address": "yrArsonist.png",
+				"ExIsFront": False
+			},
+			"Climb": {
+				"Hash": "d4b7662084e823f9b3d0428b35b7bcc1",
+				"Address": "yrArsonist_Climb.png",
+				"ExIsFront": False
+			},
+			"Bounce": False,
+			"Adaptive": False,
+			"HideHands": False,
+			"IsSkinny": False,
+			"SeekerCostume": True,
+			"FPS": 1,
+			"Name": "放火魔",
+			"Author": "夜藍",
+			"Package": "4"
+		},
+		{
+			"Main": {
+				"Hash": "3252e0d504bb57e326ee41a683432e4d",
+				"Address": "yrHeadcornpottage.png",
+				"ExIsFront": False
+			},
+			"Climb": {
+				"Hash": "6d31a1f89a700f1506790104eea5d319",
+				"Address": "yrHeadcornpottage_Climb.png",
+				"ExIsFront": False
+			},
+			"Bounce": False,
+			"Adaptive": False,
+			"HideHands": False,
+			"IsSkinny": False,
+			"SeekerCostume": True,
+			"FPS": 1,
+			"Name": "こんぽた",
+			"Author": "夜藍",
+			"Package": "4"
+		},
+		{
+			"Main": {
+				"Hash": "f33edb0232c8c5110d3fb2e36f92cb5b",
+				"Address": "YrOrehaYattenai_Back.png",
+				"ExIsFront": False
+			},
+			"Climb": {
+				"Hash": "d3ba8e61605ed36dbc4f47f11aa54879",
+				"Address": "YrOrehaYattenai_Climb.png",
+				"ExIsFront": False
+			},
+			"Bounce": False,
+			"Adaptive": True,
+			"HideHands": False,
+			"IsSkinny": False,
+			"SeekerCostume": True,
+			"FPS": 1,
+			"Name": "こいつがやった!",
+			"Author": "夜藍",
+			"Package": "4"
+		}
+	],
+	"Visors": [
+		{
+			"Main": {
+				"Hash": "dd7b9973ffa7d898e29d4721bb4a9f1a",
+				"Address": "yrHappynano.png",
+				"ExIsFront": False
+			},
+			"Adaptive": False,
+			"BehindHat": True,
+			"BackmostBack": False,
+			"Fixed": False,
+			"FPS": 1,
+			"Name": "微笑",
+			"Author": "夜藍",
+			"Package": "4"
+		},
+		{
+			"Main": {
+				"Hash": "4adc099ac58743c45deba74cf685cd1a",
+				"Address": "yrYoranB.png",
+				"ExIsFront": False
+			},
+			"Adaptive": False,
+			"BehindHat": True,
+			"BackmostBack": False,
+			"Fixed": False,
+			"FPS": 1,
+			"Name": "只野ジト目",
+			"Author": "夜藍",
+			"Package": "4"
+		},
+		{
+			"Main": {
+				"Hash": "8facd84a9a5d1a2952e50e93c47b00d1",
+				"Address": "yrthinking.png",
+				"ExIsFront": False
+			},
+			"Adaptive": True,
+			"BehindHat": True,
+			"BackmostBack": False,
+			"Fixed": False,
+			"FPS": 1,
+			"Name": "うーん\.\.\.\?",
+			"Author": "夜藍",
+			"Package": "4"
+		},
+		{
+			"Main": {
+				"Hash": "28c726e1e73eee2a035e4d9c25da277c",
+				"Address": "yrwinktehe.png",
+				"ExIsFront": False
+			},
+			"Adaptive": False,
+			"BehindHat": True,
+			"BackmostBack": False,
+			"Fixed": False,
+			"FPS": 1,
+			"Name": "てへっ!",
+			"Author": "夜藍",
+			"Package": "4"
+		},
+		{
+			"Main": {
+				"Hash": "665b0d9a44158372e9dc91ecff918e8f",
+				"Address": "yrPandaBy.png",
+				"ExIsFront": False
+			},
+			"Adaptive": False,
+			"BehindHat": False,
+			"BackmostBack": False,
+			"Fixed": False,
+			"FPS": 1,
+			"Name": "林檎も足りない",
+			"Author": "夜藍",
+			"Package": "4"
+		},
+		{
+			"Main": {
+				"Hash": "ec5c7c57de1e02a0f96a40bfa17af2f0",
+				"Address": "yrOsakimakkura.png",
+				"ExIsFront": False
+			},
+			"Adaptive": False,
+			"BehindHat": False,
+			"BackmostBack": False,
+			"Fixed": False,
+			"FPS": 1,
+			"Name": "\.\.\.",
+			"Author": "夜藍",
+			"Package": "4"
+		}
+	],
+	"Nameplates": [
+		{
+			"Plate": {
+				"Hash": "febff25a4790272e3f6a6991f21f4a4b",
+				"Address": "yrKuramubon.png",
+				"ExIsFront": False
+			},
+			"AdaptiveInFront": True,
+			"Name": "ぷかむぼん",
+			"Author": "夜藍",
+			"Package": "4"
+		},
+		{
+			"Plate": {
+				"Hash": "9aa92b820a089c6d85d62bc201e1b669",
+				"Address": "yrcrewparty.png",
+				"ExIsFront": False
+			},
+			"AdaptiveInFront": True,
+			"Name": "大集合",
+			"Author": "夜藍",
+			"Package": "4"
+		}
+	],
+	"Packages": [
+		{
+			"Package": "4",
+			"Format": "Yoran's Cosmetic",
+			"Priority": 1
+		}
+	]
+}
