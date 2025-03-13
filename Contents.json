@@ -134,17 +134,17 @@
 		},
 		{
 			"Main": {
-				"Hash": "8087e5c571c6d300af3c92b56d5462a4",
+				"Hash": "2113F6189FC8C3329BE2A8A901008174",
 				"Address": "yrofuton_Main.png",
 				"ExIsFront": False
 			},
 			"Back": {
-				"Hash": "148d6bf8c3afc7278e34122d1ce80e90",
+				"Hash": "5C9A28656ECC04A4EC8A5BCB1884C1B8",
 				"Address": "yrofuton_back.png",
 				"ExIsFront": False
 			},
 			"Climb": {
-				"Hash": "7b714a9279f906ddafa4dc8fdbdbaac9",
+				"Hash": "9D0BACB58D12AD42E37184D1F4E10BB7",
 				"Address": "yrofuton_Climb.png",
 				"ExIsFront": False
 			},
