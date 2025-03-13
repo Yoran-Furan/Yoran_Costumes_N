@@ -109,6 +109,11 @@
 		{
 			"Main": {
 				"Hash": "f33edb0232c8c5110d3fb2e36f92cb5b",
+				"Address": "YrOrehaYattenai_Main.png",
+				"ExIsFront": False
+			},
+			"Back": {
+				"Hash": "148d6bf8c3afc7278e34122d1ce80e90",
 				"Address": "YrOrehaYattenai_Back.png",
 				"ExIsFront": False
 			},
@@ -124,6 +129,58 @@
 			"SeekerCostume": True,
 			"FPS": 1,
 			"Name": "こいつがやった!",
+			"Author": "夜藍",
+			"Package": "4"
+		},
+		{
+			"Main": {
+				"Hash": "8087e5c571c6d300af3c92b56d5462a4",
+				"Address": "yrofuton_Main.png",
+				"ExIsFront": False
+			},
+			"Back": {
+				"Hash": "148d6bf8c3afc7278e34122d1ce80e90",
+				"Address": "yrofuton_back.png",
+				"ExIsFront": False
+			},
+			"Climb": {
+				"Hash": "7b714a9279f906ddafa4dc8fdbdbaac9",
+				"Address": "yrofuton_Climb.png",
+				"ExIsFront": False
+			},
+			"Bounce": False,
+			"Adaptive": True,
+			"HideHands": False,
+			"IsSkinny": False,
+			"SeekerCostume": True,
+			"FPS": 1,
+			"Name": "おふとんぬくぬく",
+			"Author": "夜藍",
+			"Package": "4"
+		},
+		{
+			"Main": {
+				"Hash": "754a3f636c00ddabe57071d7adff6182",
+				"Address": "yrshirt_Main.png",
+				"ExIsFront": False
+			},
+			"Move": {
+				"Hash": "f324953e550831642283d35861c85944",
+				"Address": "yrshirt_Move.png",
+				"ExIsFront": False
+			},
+			"Climb": {
+				"Hash": "35c02475562b0b112ee19ed78a54e6e0",
+				"Address": "yrshirt_Climb.png",
+				"ExIsFront": False
+			},
+			"Bounce": True,
+			"Adaptive": True,
+			"HideHands": False,
+			"IsSkinny": False,
+			"SeekerCostume": True,
+			"FPS": 1,
+			"Name": "しゃつ",
 			"Author": "夜藍",
 			"Package": "4"
 		}
@@ -218,6 +275,136 @@
 			"Name": "\.\.\.",
 			"Author": "夜藍",
 			"Package": "4"
+		},
+		{
+			"Main": {
+				"Hash": "958b3e0a0ae88e54cf7eac14bd4a6b08",
+				"Address": "yrdoyaxa_Main.png",
+				"ExIsFront": False
+			},
+			"Adaptive": False,
+			"BehindHat": False,
+			"BackmostBack": False,
+			"Fixed": False,
+			"FPS": 1,
+			"Name": "どやぁ",
+			"Author": "夜藍",
+			"Package": "4"
+		},
+		{
+			"Main": {
+				"Hash": "d6b43958db4aaec7396c972f85f236d0",
+				"Address": "yrGuruguru_Main.png",
+				"ExIsFront": False
+			},
+			"Adaptive": False,
+			"BehindHat": False,
+			"BackmostBack": False,
+			"Fixed": False,
+			"FPS": 1,
+			"Name": "ぐるぐる",
+			"Author": "夜藍",
+			"Package": "4"
+		},
+		{
+			"Main": {
+				"Hash": "ead3193377d2063f0af2b952513ff8e1",
+				"Address": "yrNun_Main.png",
+				"ExIsFront": False
+			},
+			"Adaptive": False,
+			"BehindHat": False,
+			"BackmostBack": False,
+			"Fixed": False,
+			"FPS": 1,
+			"Name": "'ヮ'",
+			"Author": "夜藍",
+			"Package": "4"
+		},
+		{
+			"Main": {
+				"Hash": "f0eebfea78eb4f52a5fe730a705173df",
+				"Address": "yrehhen_Main.png",
+				"ExIsFront": False
+			},
+			"Adaptive": False,
+			"BehindHat": False,
+			"BackmostBack": False,
+			"Fixed": False,
+			"FPS": 1,
+			"Name": "\(｀・∀・´\)",
+			"Author": "夜藍",
+			"Package": "4"
+		},
+		{
+			"Main": {
+				"Hash": "226bb0f80580923d105287216ee87dd6",
+				"Address": "yrslime_Main.png",
+				"ExIsFront": False
+			},
+			"Climb": {
+				"Hash": "d7a397743f29c58f8421113aca207462",
+				"Address": "yrslime_Climb.png",
+				"ExIsFront": False
+			},
+			"Adaptive": False,
+			"BehindHat": False,
+			"BackmostBack": False,
+			"Fixed": False,
+			"FPS": 1,
+			"Name": "もちもち",
+			"Author": "夜藍",
+			"Package": "4"
+		},
+		{
+			"Main": {
+				"Hash": "9860cdd7328ea7563eabc35521142252",
+				"Address": "yrbomb_Main.png",
+				"ExIsFront": False
+			},
+			"Climb": {
+				"Hash": "55f5bd1fa72f8a3c166352499fa14e40",
+				"Address": "yrbomb_Climb.png",
+				"ExIsFront": False
+			},
+			"Adaptive": False,
+			"BehindHat": False,
+			"BackmostBack": False,
+			"Fixed": False,
+			"FPS": 1,
+			"Name": "Boooooom!",
+			"Author": "夜藍",
+			"Package": "4"
+		},
+		{
+			"Main": {
+				"Hash": "8a78be93839b8f903cd7910900b93dfb",
+				"Address": "yrrabbit_Main.png",
+				"ExIsFront": False
+			},
+			"Adaptive": False,
+			"BehindHat": False,
+			"BackmostBack": False,
+			"Fixed": False,
+			"FPS": 1,
+			"Name": "ぴょん",
+			"Author": "夜藍",
+			"Package": "4"
+		},
+		{
+			"Main": {
+				"Hash": "c38fbf24924ec45f80c544fda68c2cbf",
+				"Address": "yrettu_Main.png",
+				"ExIsFront": False
+			},
+			"Adaptive": False,
+			"BehindHat": False,
+			"BackmostBack": False,
+			"Fixed": False,
+			"FPS": 1,
+			"Name": "はっ!\?",
+			"Author": "夜藍",
+			"Package": "4"
 		}
 	],
 	"Nameplates": [
@@ -242,6 +429,41 @@
 			"Name": "大集合",
 			"Author": "夜藍",
 			"Package": "4"
+		}
+	],
+	"Stamps": [
+		{
+			"Author": "夜藍",
+			"Package": "Yoran Stamps",
+			"Name": "good",
+			"FPS": 1,
+			"Adaptive": true,
+			"Image": {
+				"Address": "yrgood.png",
+				"Hash": "FCC8AE9A2D89887955CB663E47F2E464"
+			}
+		},
+		{
+			"Author": "夜藍",
+			"Package": "Yoran Stamps",
+			"Name": "thinking",
+			"FPS": 1,
+			"Adaptive": true,
+			"Image": {
+				"Address": "yrthinking",
+				"Hash": "8E25312757B87FAE30CC75E1E07A8481"
+			}
+		},
+		{
+			"Author": "夜藍",
+			"Package": "Yoran Stamps",
+			"Name": "Deadboy",
+			"FPS": 1,
+			"Adaptive": true,
+			"Image": {
+				"Address": "yrOniku",
+				"Hash": "8E25312757B87FAE30CC75E1E07A8481"
+			}
 		}
 	],
 	"Packages": [
