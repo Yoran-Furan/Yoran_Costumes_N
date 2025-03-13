@@ -450,7 +450,7 @@
 			"FPS": 1,
 			"Adaptive": true,
 			"Image": {
-				"Address": "yrthinking",
+				"Address": "yrthinking.png",
 				"Hash": "8E25312757B87FAE30CC75E1E07A8481"
 			}
 		},
@@ -461,7 +461,7 @@
 			"FPS": 1,
 			"Adaptive": true,
 			"Image": {
-				"Address": "yrOniku",
+				"Address": "yrOniku.png",
 				"Hash": "8E25312757B87FAE30CC75E1E07A8481"
 			}
 		}
