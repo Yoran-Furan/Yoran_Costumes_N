@@ -457,12 +457,34 @@
 		{
 			"Author": "夜藍",
 			"Package": "4",
-			"Name": "Deadboy",
+			"Name": "DeadBody",
 			"FPS": 1,
 			"Adaptive": true,
 			"Image": {
 				"Address": "yrOniku.png",
 				"Hash": "8E25312757B87FAE30CC75E1E07A8481"
+			}
+		},
+		{
+			"Author": "夜藍",
+			"Package": "4",
+			"Name": "Noooo",
+			"FPS": 1,
+			"Adaptive": true,
+			"Image": {
+				"Address": "yrNoooo.png",
+				"Hash": "6B683DFBB5BE51AA04650140965515EA"
+			}
+		},
+		{
+			"Author": "夜藍",
+			"Package": "4",
+			"Name": "Snipe",
+			"FPS": 1,
+			"Adaptive": true,
+			"Image": {
+				"Address": "yrSnipe.png",
+				"Hash": "C29A198E34938952F2AC631C45F086B4"
 			}
 		}
 	],
